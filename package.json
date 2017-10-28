@@ -1,0 +1,24 @@
+{
+  "name": "slackbot101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "forecast": "^0.3.2",
+    "giphy-api": "^1.2.7",
+    "lodash": "^4.17.4",
+    "node-fetch": "^1.7.3",
+    "node-geocoder": "^3.21.0",
+    "slackbots": "^1.1.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
